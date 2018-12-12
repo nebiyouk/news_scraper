@@ -1,0 +1,37 @@
+@import url(https://fonts.googleapis.com/css?family=Pacifico|Roboto);
+
+body { 
+    background: url('./bgr.jpg') no-repeat center center fixed !important;
+    -webkit-background-size: cover !important;
+    -moz-background-size: cover !important;
+    -o-background-size: cover !important;
+    background-size: cover !important;
+  }
+
+  .bg-light {
+    background-color: #2B93D9 !important;
+}
+
+.list-group-item {
+  background-color: rgba(247, 245, 241, .75) !important;
+}
+.form-control {
+  background-color: rgba(247, 245, 241, .75) !important;
+}
+p {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif !important;
+}
+h2 {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif !important;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #aa310c;
+  border-color: #007bff;
+}
+
+.navbar-brand {
+  text-decoration-line: overline underline;
+  text-decoration-style: wavy;
+}
