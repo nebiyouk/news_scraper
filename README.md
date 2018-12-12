@@ -9,7 +9,7 @@
 <ul>
 <li>Scrape articles by clicking the "Scrape" button.</li>
 <li>Once articles are loaded, read full article by clicking the link in each article's panel.</li>
-<li>Comments can be added by clicking the "Add" button.</li>
+<li>Comments can be added by clicking the "Comments" button and save it.</li>
 <li>Saved Comments can be deleted by clicking the "Delete" button.</li>
 </ul>
 <br>
