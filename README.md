@@ -11,5 +11,17 @@
 <li>Once articles are loaded, read full article by clicking the link in each article's panel.</li>
 <li>Comments can be added by clicking the "Add" button.</li>
 <li>Saved Comments can be deleted by clicking the "Delete" button.</li>
-<li></li>
+</ul>
+<br>
+<h2>Technologies Used</h2>
+
+<ul>
+<li>Express</li>
+<li>express-handlebars</li>
+<li>body-parser</li>
+<li>cheerio</li>
+<li>mongoose</li>
+<li>request</li>
+<li>dotenv</li>
+
 </ul>
